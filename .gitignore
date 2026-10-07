@@ -1,0 +1,26 @@
+.vscode/
+.DS_Store
+__pycache__/
+# Build stuff
+build/
+# Windows build stuff
+build-mingw/
+# Compiled stuff
+bin/
+
+# Config files
+config.json
+
+# Environments
+*_env/
+.venv/
+venv/
+
+# Libraries
+boost_1_83_0/
+fftw-3.3.10/
+
+# Data folder
+data
+
+
