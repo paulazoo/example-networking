@@ -1,5 +1,5 @@
 # Directories
-SRC_DIR := cpp_src
+SRC_DIR := src
 BUILD_DIR := build
 WIN_BUILD_DIR := build-mingw
 BIN_DIR := bin
